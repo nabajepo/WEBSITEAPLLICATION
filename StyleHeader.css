@@ -1,0 +1,28 @@
+.nav h1{
+    color: rgb(40, 150, 50);
+    margin-top: 10px;
+    margin-left: 60px;
+}
+nav{
+    background-color: black;
+}
+.nav ul{
+    list-style-type: none;
+    background-color: black;
+    margin-left: 0;
+    overflow: hidden;
+}
+.nav a{
+    color: white;
+    text-decoration: none;
+    padding: 15px 30px;
+    display: block;
+    text-align: center;
+
+}
+.nav a:hover{
+    background-color: rgb(40, 150, 50);
+}
+.nav li{
+    float: left;
+}
